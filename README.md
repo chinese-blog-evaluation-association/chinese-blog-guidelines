@@ -5,7 +5,7 @@
 本文链接：[在我的博客上阅读](https://howiehz.top/archives/chinese-blog-guidelines)、[在 GitHub 上阅读](https://github.com/HowieHz/chinese-blog-guidelines)  
 推荐阅读：[中文博客圈列表](https://howiehz.top/archives/chinese-blogosphere-list)
 
-> 最后更新时间 2024.6.2
+> 最后更新时间 2024.6.6
 
 ## 本倡议精神
 
@@ -22,7 +22,7 @@
 
 ### 提倡的设计
 
-1. 按照[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/)进行排版优化。
+1. 整个站点应采用固定的一套排版样式（如在[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/)的基础上发展出一套自己的排版样式）
 2. 在需要填写邮箱的地方（如评论区）进行邮箱强制验证，验证方式如：
    - 向邮箱发送一封带有验证码的邮件来验证。
    - 向邮箱发送一封带有验证链接的邮件，评需要到邮箱点击验证链接。
@@ -40,7 +40,7 @@
 
 ## 将本文链接插入博客
 
-### markdown 格式版
+### Markdown 格式版
 
 国内访问情况较通畅的地址
 
@@ -54,7 +54,7 @@ GitHub 地址
 [中文博客倡议](https://github.com/HowieHz/chinese-blog-guidelines)
 ```
 
-### html 格式版
+### HTML 格式版
 
 国内访问情况较通畅的地址
 
@@ -77,3 +77,18 @@ GitHub 地址
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HowieHz/chinese-blog-guidelines&type=Date" />
  </picture>
 </a>
+
+## 更新日志
+
+<details><summary>点我展开</summary>
+
+2024.6.6
+
+- 在 [wildgun](http://wildgun.net/) 的建议下修改`设计-提倡的设计`中有关排版的倡议
+
+
+2024.6.2
+
+- 初版
+
+</details>
