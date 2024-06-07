@@ -83,10 +83,13 @@ GitHub 地址
 
 <details><summary>点我展开</summary>
 
+2024.6.7
+
+- 在 [Allenyou](https://github.com/Allenyou1126)[github@Allenyou1126](https://github.com/Allenyou1126) 的建议下在`设计-不提倡的设计`中添加有关防广告过滤器的说明
+
 2024.6.6
 
 - 在 [wildgun](http://wildgun.net/) 的建议下修改`设计-提倡的设计`中有关排版的倡议
-
 
 2024.6.2
 
