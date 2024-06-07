@@ -85,7 +85,7 @@ GitHub 地址
 
 2024.6.7
 
-- 在 [Allenyou](https://github.com/Allenyou1126)[github@Allenyou1126](https://github.com/Allenyou1126) 的建议下在`设计-不提倡的设计`中添加有关防广告过滤器的说明
+- 在 [Allenyou](https://github.com/Allenyou1126)([github@Allenyou1126](https://github.com/Allenyou1126)) 的建议下在`设计-不提倡的设计`中添加有关防广告过滤器的说明
 
 2024.6.6
 
