@@ -5,7 +5,7 @@
 本文链接：[在我的博客上阅读](https://howiehz.top/archives/chinese-blog-guidelines)、[在 GitHub 上阅读](https://github.com/HowieHz/chinese-blog-guidelines)  
 推荐阅读：[中文博客圈列表](https://howiehz.top/archives/chinese-blogosphere-list)
 
-> 最后更新时间 2024.6.6
+> 最后更新时间 2024.6.8
 
 - [中文博客倡议](#中文博客倡议)
   - [本倡议精神](#本倡议精神)
@@ -89,7 +89,7 @@ GitHub 地址
 
 <details><summary>点我展开</summary>
 
-2024.6.7
+2024.6.8
 
 - 简化标题层次，如`设计-不提倡的设计` -> `不提倡的设计`
 - 为`不提倡的设计`每项添加代号，起始为 `CBGB`(chinese-blog-guidelines bad design)，后添加三位数字，大小为 000-999
@@ -97,7 +97,7 @@ GitHub 地址
 - 调整 `CBGB003` 简述
 - - 调整前：在网站加载的时候启用 alert/confirm/prompt 弹窗阻塞用户操作
 - - 调整后：页面加载时弹出提示框限制用户操作
-- 调整 `CBGG002` 简述（感谢 [Imken](https://imken.moe/)([github@immccn123](https://github.com/immccn123)), [呓语梦轩](https://blog.awaae001.top/)([github@awaae001](https://github.com/awaae001) 对这个提案做出的贡献，以及 [Kegongteng](https://kegongteng.cn/)([github@gtxykn0504](https://github.com/gtxykn0504)) 提出最终的修改方案)
+- 调整 `CBGG002` 简述（感谢 [Imken](https://imken.moe/)([github@immccn123](https://github.com/immccn123)), [呓语梦轩](https://blog.awaae001.top/)([github@awaae001](https://github.com/awaae001)) 对这个提案做出的贡献，以及 [Kegongteng](https://kegongteng.cn/)([github@gtxykn0504](https://github.com/gtxykn0504)) 提出最终的修改方案
 - - 调整前：在需要填写邮箱的地方（如评论区）进行邮箱强制验证
 - - 调整后：在填写邮箱，网站等信息时，为访客提供验证服务
 - 为 `CBGB001`-`CBGB005` 添加解释文档和示例文件
