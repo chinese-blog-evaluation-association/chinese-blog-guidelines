@@ -33,10 +33,8 @@
 
 ## 提倡的设计
 
-1. 整个站点应采用固定的一套排版样式（如在[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/)的基础上发展出一套自己的排版样式）
-2. 在需要填写邮箱的地方（如评论区）进行邮箱强制验证，验证方式如：
-   - 向邮箱发送一封带有验证码的邮件来验证。
-   - 向邮箱发送一封带有验证链接的邮件，评需要到邮箱点击验证链接。
+- [CBGG001](./doc/cbgg001.md) 整个站点应采用固定的一套排版样式。
+- [CBGG002](./doc/cbgg002.md) 在填写邮箱，网站等信息时，为访客提供验证服务。
 
 ## 设计编辑的建议
 
@@ -95,9 +93,13 @@ GitHub 地址
 
 - 简化标题层次，如`设计-不提倡的设计` -> `不提倡的设计`
 - 为`不提倡的设计`每项添加代号，起始为 `CBGB`(chinese-blog-guidelines bad design)，后添加三位数字，大小为 000-999
+- 为`提倡的设计`每项添加代号，起始为 `CBGG`(chinese-blog-guidelines good design)，后添加三位数字，大小为 000-999
 - 调整 `CBGB003` 简述
 - - 调整前：在网站加载的时候启用 alert/confirm/prompt 弹窗阻塞用户操作
 - - 调整后：页面加载时弹出提示框限制用户操作
+- 调整 `CBGG002` 简述（感谢 [Imken](https://imken.moe/)([github@immccn123](https://github.com/immccn123)), [呓语梦轩](https://blog.awaae001.top/)([github@awaae001](https://github.com/awaae001) 对这个提案做出的贡献，以及 [Kegongteng](https://kegongteng.cn/)([github@gtxykn0504](https://github.com/gtxykn0504)) 提出最终的修改方案)
+- - 调整前：在需要填写邮箱的地方（如评论区）进行邮箱强制验证
+- - 调整后：在填写邮箱，网站等信息时，为访客提供验证服务
 - 为 `CBGB001`-`CBGB005` 添加解释文档和示例文件
 - 添加文档目录
 
