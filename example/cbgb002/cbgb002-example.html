@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CBGB002</title>
+  </head>
+  <body>
+    <h1>CBGB002 - example</h1>
+    <p>
+      页面标题初始为：CBGB002<br /><br />
+
+      之后请尝试以下操作，并观察页面标题：<br />
+      1. 将此页面切到后台<br />
+      2. 将此页面重新切回前台<br />
+      3. 关闭此页面，查看历史记录<br />
+      4. 打开多个页面，使用收藏快捷键一键收藏全部页面后查看收藏夹内容<br />
+    </p>
+    <script type="text/javascript">
+      window.onblur = function () {
+        document.title = "页面进入后台";
+      };
+      window.onfocus = function () {
+        document.title = "页面回到前台";
+      };
+    </script>
+  </body>
+</html>
