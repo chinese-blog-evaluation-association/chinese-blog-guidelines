@@ -5,19 +5,7 @@
 本文链接：[在我的博客上阅读](https://howiehz.top/archives/chinese-blog-guidelines)、[在 GitHub 上阅读](https://github.com/HowieHz/chinese-blog-guidelines)  
 推荐阅读：[中文博客圈列表](https://howiehz.top/archives/chinese-blogosphere-list)
 
-> 最后更新时间 2024.6.8
-
-- [中文博客倡议](#中文博客倡议)
-  - [本倡议精神](#本倡议精神)
-  - [不提倡的设计](#不提倡的设计)
-  - [提倡的设计](#提倡的设计)
-  - [设计编辑的建议](#设计编辑的建议)
-  - [提倡的行为](#提倡的行为)
-  - [将本文链接插入博客](#将本文链接插入博客)
-    - [Markdown 格式版](#markdown-格式版)
-    - [HTML 格式版](#html-格式版)
-  - [Star History](#star-history)
-  - [更新日志](#更新日志)
+> 最后更新时间 2024.6.9
 
 ## 本倡议精神
 
@@ -88,6 +76,11 @@ GitHub 地址
 ## 更新日志
 
 <details><summary>点我展开</summary>
+
+2024.6.9
+
+- 去除文章开头的目录
+- 添加构建程序：将 README.md，解释，示例合并到一个文件中。用于博客文章。
 
 2024.6.8
 
