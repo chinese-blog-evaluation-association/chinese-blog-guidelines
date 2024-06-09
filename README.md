@@ -67,9 +67,9 @@ GitHub 地址
 
 <a href="https://star-history.com/#HowieHz/chinese-blog-guidelines&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=HowieHz/chinese-blog-guidelines&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=HowieHz/chinese-blog-guidelines&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HowieHz/chinese-blog-guidelines&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=HowieHz/chinese-blog-guidelines&type=Date&theme=dark" loading="lazy" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=HowieHz/chinese-blog-guidelines&type=Date" loading="lazy" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HowieHz/chinese-blog-guidelines&type=Date" loading="lazy" />
  </picture>
 </a>
 
