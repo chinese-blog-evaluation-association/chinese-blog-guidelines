@@ -81,6 +81,7 @@ GitHub 地址
 
 - 去除文章开头的目录
 - 添加构建程序：将 README.md，解释，示例合并到一个文件中。用于博客文章。
+- 调整 `CBGG002` 解释文档（感谢 [Kegongteng](https://kegongteng.cn/)([github@gtxykn0504](https://github.com/gtxykn0504)) 在其中做出的贡献）
 
 2024.6.8
 
