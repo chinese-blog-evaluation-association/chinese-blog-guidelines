@@ -7,7 +7,7 @@ output: str = ""
 
 # 将 README.md 不提倡的设计和提倡的设计 中的链接（例./doc/cbgb001.md）换为文章内部锚点（例#cbgb001）
 def change_link_in_readme(matched: re.Match) -> str:
-    return str(matched.group(0)).replace("./doc/", "#").removesuffix(".md")
+    return str(matched.group(0)).replace("./doc/", "#").removesuffix(".md").upper()
 
 
 with open(f"./README.md", mode="r", encoding="utf-8") as f:
@@ -25,7 +25,7 @@ doc_files: list[str] = [
 
 
 def change_link_in_explanation(matched: re.Match) -> str:
-    return f"[Example](#{str(matched.group(0)[-21:-6])})"
+    return f"[Example](#{str(matched.group(0)[-21:-6]).upper()})"
 
 
 for file_name in doc_files:
