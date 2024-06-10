@@ -1,15 +1,18 @@
 # 中文博客倡议
 
-共建更好的博客环境需要每位博主的参与！
+共建更好的博客环境需要你的参与！
 
 本文链接：[在我的博客上阅读](https://howiehz.top/archives/chinese-blog-guidelines)、[在 GitHub 上阅读](https://github.com/HowieHz/chinese-blog-guidelines)  
-推荐阅读：[中文博客圈列表](https://howiehz.top/archives/chinese-blogosphere-list)
+推荐阅读：[中文博客圈列表](https://howiehz.top/archives/chinese-blogosphere-list)-唯有超链接，能将互联网上一座座孤岛联系起来  
 
-> 最后更新时间 2024.6.9
+如想支持本项目，就为此项目点个⭐吧！
+你指尖释放的善意，将指引我们继续前行。
+
+> 最后更新时间 2024.6.10
 
 ## 本倡议精神
 
-- 提升访客阅读体验。
+- 提升访客访问体验。
 
 ## 不提倡的设计
 
@@ -32,6 +35,10 @@
 ## 提倡的行为
 
 1. 积极评论，即使无话可说也可以发送一些用于赞美的语句来鼓励认真写文的博主。
+
+## 鸣谢
+
+感谢本项目的[所有贡献者](https://github.com/HowieHz/chinese-blog-guidelines/graphs/contributors)，以及在各个平台为对本项目提出指导意见的各位。正是因为你们，才有了现在的`中文博客倡议`！
 
 ## 将本文链接插入博客
 
@@ -76,6 +83,11 @@ GitHub 地址
 ## 更新日志
 
 <details><summary>点我展开</summary>
+
+2024.6.10
+
+- 添加鸣谢部分
+- 修改 README.md 引入部分
 
 2024.6.9
 
