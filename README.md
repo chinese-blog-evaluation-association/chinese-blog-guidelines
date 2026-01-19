@@ -16,7 +16,7 @@
 
 - [CBGB001](./doc/cbgb001.md) 自动播放多媒体资源。
 - [CBGB002](./doc/cbgb002.md) 动态页面标题。
-- [CBGB003](./doc/cbgb003.md) 页面加载时弹出提示框限制用户操作。
+- [CBGB003](./doc/cbgb003.md) 页面加载时弹出原生 JavaScript 对话框。
 - [CBGB004](./doc/cbgb004.md) 过多的特效。
 - [CBGB005](./doc/cbgb005.md) 检测到广告过滤程序后影响用户浏览内容。
 - [CBGB006](./doc/cbgb006.md) 内容与背景对比度过低。
