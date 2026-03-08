@@ -2,8 +2,8 @@
 
 共建更好的博客环境需要你的参与！
 
-本文链接：[在我的博客上阅读](https://howiehz.top/archives/chinese-blog-guidelines)、[在 GitHub 上阅读](https://github.com/HowieHz/chinese-blog-guidelines)  
-推荐阅读：[中文博客圈列表](https://howiehz.top/archives/chinese-blogosphere-list)-唯有超链接，能将互联网上一座座孤岛联系起来  
+本文链接：[在博客上阅读](https://howiehz.top/archives/chinese-blog-guidelines)、[在 GitHub 上阅读](https://github.com/HowieHz/chinese-blog-guidelines)  
+推荐阅读：[中文博客圈列表](https://howiehz.top/archives/chinese-blogosphere-list)——唯有超链接，能将互联网上一座座孤岛联系起来。
 
 如想支持本项目，就为此项目点个⭐吧！
 你指尖释放的善意，将指引我们继续前行。
@@ -25,6 +25,7 @@
 
 - [CBGG001](./doc/cbgg001.md) 整个站点应采用固定的一套排版样式。
 - [CBGG002](./doc/cbgg002.md) 在填写邮箱，网站等信息时，为访客提供验证服务。
+- [CBGG003](./doc/cbgg003.md) 提供订阅源（Atom、RSS）应符合标准。
 
 ## 设计编辑的建议
 
@@ -78,47 +79,3 @@ GitHub 地址
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HowieHz/chinese-blog-guidelines&type=Date" loading="lazy" />
  </picture>
 </a>
-
-## 更新日志
-
-<details><summary>点我展开</summary>
-
-2024.6.10
-
-- 添加鸣谢部分
-- 修改 README.md 引入部分
-- 为项目添加贡献指南
-
-2024.6.9
-
-- 去除文章开头的目录
-- 添加构建程序：将 README.md，解释，示例合并到一个文件中。用于博客文章。
-- 调整 `CBGG002` 解释文档（感谢 [Kegongteng](https://kegongteng.cn/)([github@gtxykn0504](https://github.com/gtxykn0504)) 在其中做出的贡献）
-
-2024.6.8
-
-- 简化标题层次，如`设计-不提倡的设计` -> `不提倡的设计`
-- 为`不提倡的设计`每项添加代号，起始为 `CBGB`(chinese-blog-guidelines bad design)，后添加三位数字，大小为 000-999
-- 为`提倡的设计`每项添加代号，起始为 `CBGG`(chinese-blog-guidelines good design)，后添加三位数字，大小为 000-999
-- 调整 `CBGB003` 简述
-- - 调整前：在网站加载的时候启用 alert/confirm/prompt 弹窗阻塞用户操作
-- - 调整后：页面加载时弹出提示框限制用户操作
-- 调整 `CBGG002` 简述（感谢 [Imken](https://imken.moe/)([github@immccn123](https://github.com/immccn123)), [呓语梦轩](https://blog.awaae001.top/)([github@awaae001](https://github.com/awaae001)) 对这个提案做出的贡献，以及 [Kegongteng](https://kegongteng.cn/)([github@gtxykn0504](https://github.com/gtxykn0504)) 提出最终的修改方案
-- - 调整前：在需要填写邮箱的地方（如评论区）进行邮箱强制验证
-- - 调整后：在填写邮箱，网站等信息时，为访客提供验证服务
-- 为 `CBGB001`-`CBGB005` 添加解释文档和示例文件
-- 添加文档目录
-
-2024.6.7
-
-- 在 [Allenyou](https://github.com/Allenyou1126)([github@Allenyou1126](https://github.com/Allenyou1126)) 的建议下在`设计-不提倡的设计`中添加有关防广告过滤器的说明
-
-2024.6.6
-
-- 在 [wildgun](http://wildgun.net/) 的建议下修改`设计-提倡的设计`中有关排版的倡议
-
-2024.6.2
-
-- 初版
-
-</details>
